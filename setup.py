@@ -9,5 +9,7 @@ setup(
         author='Mohanjith Sudirikku Hannadige',
         author_email='moha@codemaster.fi',
         url='http://www.codemaster.fi/python/maksu/',
-        packages=[ 'maksu' ]
+        download_url = 'https://github.com/codemasteroy/py-viitenumero/tarball/1.0'
+        packages=[ 'maksu' ],
+        keywords=[ 'payments', 'creditor reference', 'finland', 'suomi' ]
 )
